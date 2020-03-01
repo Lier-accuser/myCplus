@@ -1,2 +1,2 @@
-# myC-
+# myC++
 my C++ learning process
